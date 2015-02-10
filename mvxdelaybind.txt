@@ -1,0 +1,6 @@
+this.DelayBind(() =>
+{
+	var set = this.CreateBindingSet<$view$, $vm$>();
+	//put bindings here
+	set.Apply();
+});

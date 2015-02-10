@@ -1,0 +1,3 @@
+var set = this.CreateBindingSet<$view$, $view_model$>();
+//insert bindings here
+set.Apply();

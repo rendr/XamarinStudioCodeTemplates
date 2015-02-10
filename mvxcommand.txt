@@ -1,0 +1,14 @@
+#region $name$
+private MvxCommand _go$name$;
+	public ICommand Go$name$ {
+		get {
+			_go$name$ = _go$name$ ?? new MvxCommand (DoGo$name$);
+			return _go$name$;
+		}
+	}
+
+	public virtual void DoGo$name$ ()
+	{
+			//Do stuff here
+	}
+#endregion
