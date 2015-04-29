@@ -1,4 +1,4 @@
-** How to Use Code Templates in Xamarin Studio
+**How to Use Code Templates in Xamarin Studio**
 
 To add a template in Xamarin Studio, open Preferences > Code Templates.
 
